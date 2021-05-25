@@ -6,4 +6,5 @@
  
  ### Dados retirados de duas fontes:
  - https://chbrandt.github.io/swift_deepsky/
+ 
  - https://ui.adsabs.harvard.edu/abs/2011Natur.476..421B/abstract
