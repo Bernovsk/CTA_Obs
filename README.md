@@ -13,3 +13,7 @@
 
  Rádio, Óptico/infravermelho, Ultra-Violeta e Raios-Gama (Burrows et al. 2011).
  - https://ui.adsabs.harvard.edu/abs/2011Natur.476..421B/abstract
+
+### Curvas de Sensibilidade do CTA (North and South):
+ Os dados foram extráidos manualmente das imagens fornecidas pelo site do Cherenkov Telescope Array.
+ - https://www.cta-observatory.org/science/cta-performance/
