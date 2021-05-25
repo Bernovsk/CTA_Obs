@@ -5,6 +5,9 @@
  
  
  ### Dados retirados de duas fontes:
+ A extração e análise dos dados em raios-X provenientes do XRT, foram extraídos através do Deepsky.
  - https://chbrandt.github.io/swift_deepsky/
- 
+ Pontos provenientes do Swift-BAT, foram obtidos através do report do Swift.
+ - https://gcn.gsfc.nasa.gov/notices_s/450158/BA/
+ Rádio, Óptico/infravermelho, Ultra-Violeta, Raios-X e Raios-Gama (Burrows et al. 2011).
  - https://ui.adsabs.harvard.edu/abs/2011Natur.476..421B/abstract
