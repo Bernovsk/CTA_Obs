@@ -19,5 +19,6 @@
  - https://www.cta-observatory.org/science/cta-performance/
 
 
-### O software de modelagem utilizado, foi o JetSeT. Ele permite a reprodução e modelagem de mecanismos radiativos e de processos aceleradores que agem em jatos relativísticos, permitindo modelar numericamente os dados observados. 
+### O software de modelagem, JetSeT.
+Ele permite a reprodução e modelagem de mecanismos radiativos e de processos aceleradores que agem em jatos relativísticos, permitindo modelar numericamente os dados observados:
 - https://jetset.readthedocs.io/en/1.1.2/
