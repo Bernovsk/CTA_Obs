@@ -4,7 +4,7 @@
  de sensibilidade do CTA.
  
  
- ### Dados retirados de duas fontes:
+ ### Referência dos Dados:
  A extração e análise dos dados em raios-X provenientes do XRT, foram extraídos através do Deepsky.
  - https://chbrandt.github.io/swift_deepsky/
  
